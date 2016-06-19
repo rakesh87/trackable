@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  id: 1
+  original_url: http://twitter.com
+  shorty: abc
+  user_id: 1
+  short_visits_count: 1
+
+two:
+  id: 2
+  original_url: http://facebook.com
+  shorty: xyz
+  user_id: 2
+  short_visits_count: 2

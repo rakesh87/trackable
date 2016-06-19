@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  short_uri_id: 1
+  visitor_ip: MyString
+  visitor_city: Bangalore
+  visitor_state: Karnataka
+  visitor_country_iso2: MyString
+
+two:
+  short_uri_id: 2
+  visitor_ip: MyString
+  visitor_city: Delhi
+  visitor_state: Delhi
+  visitor_country_iso2: MyString
